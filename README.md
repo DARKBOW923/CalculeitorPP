@@ -1,4 +1,4 @@
-# CalculeitorPP
+# Calculeitor++
 Calculeitor++: The best GNU/Linux calculator you will get, made in C++, with love from a noob ♥
 
 This calculator is totally free (think of free as freedom, not free beer), you can modify it, sell it, share it with your friends, this calculator is compliant with the 4 liberties of free software.
